@@ -6,9 +6,13 @@
 ## 📜 Transcription
 
 Portland, 8 June 1893
+
 Dear Sir,
+
 The time has not yet arrived when any well-formed opinion can be entertained or publicly expressed as to the future of the Prohibition Party, nor as to the wisest and best nominations for candidates that can be offered.
+
 Respectfully,
+
 Neal Dow
 
 
