@@ -22,10 +22,6 @@ Very truly yours,
 
 Wm. M. Springer
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📚 Historical Description
