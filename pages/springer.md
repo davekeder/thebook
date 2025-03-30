@@ -1,6 +1,6 @@
 # 🖋️ William M. Springer - Letter (1893)
 
-![Springer Letter](/assets/William_Springer_Letter.jpg)
+![Springer Letter](assets/William_Springer_Letter.jpg)
 
 ---
 
