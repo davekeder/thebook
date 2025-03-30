@@ -1,20 +1,29 @@
 # 🖋️ James Beaver - Letter (1893)
 
-<img src="assets/Beaver_Letter_1.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Beaver_Letter_2.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+<img src="assets/Beaver_Letter_1.jpg" alt="Beaver Letter 1" style="max-width: 80%; height: auto;"/>
+<img src="assets/Beaver_Letter_2.jpg" alt="Beaver Letter 2" style="max-width: 80%; height: auto;"/>
 ---
 
 ## 📜 Transcription
 
 Beaver, Iglehart & Dale,
+
 Attorneys at Law,
+
 Bellefonte, Centre Co., Penna.
+
 June 16th, 1893.
+
 Mr. C. W. Mills,
+
 Sodus, N. Y.
+
 My dear Sir:
+
 Your letter of the 9th instant was received on my return home from Chicago. It is a matter of some delicacy to advise a young man outside of one’s own family. Let me give you a little bit of my own experience in the matter. One of my boys had a decided fancy for military exercises. From a child he would pace up and down as a sentry for hours at a time and seemed to take great delight in military service. Whilst I was in public office, I wrote him asking him if he would like to go to West Point, as I thought I could secure the appointment for him, and advised him to take plenty of time for reply. His answer, which was very satisfactory to me, stated that, although he jumped at the conclusion as soon as my letter was received, he held it as I advised for several days in order to consider the question in all its bearings, and had arrived at the conclusion that “life was too short to be spent in keeping Indians on their reservations or loafing at a swell fort.” He puts the ordinary life of an ordinary army officer in compact but very truthful form. We had, a short time previously, been at Fort Monroe and had there seen how the time of the officers was spent. The routine of life on the frontier, of course, had been gathered from other sources. Without knowing your personal peculiarities and tendencies, it is difficult to advise you upon the subject but, if you have the ability and the desire for a future, it seems to me that in this busy practical age that can be worked out better through a good modern education in one of our modern colleges than through an education which you could acquire either at West Point or Annapolis. So much depends, however, upon your means and your ability and your ambitions that my advice would be worth very little. I give you no advice upon the subject but simply, in very general terms, state what I believe to be the best for an ordinary young man under ordinary conditions.
+
 Very cordially yours,
+
 James A. Beaver
 
 
