@@ -14,6 +14,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Thomas Wentworth Higginson](higginson.md)
 - [Alexander P Stewart](stewart.md)
 - [Benjamin F Butler](butler.md)
+- [Horatio Alger](alger.md)
 
 ## 🔎 About This Collection
 
