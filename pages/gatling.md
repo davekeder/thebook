@@ -22,7 +22,7 @@ R. J. Gatling
 
 ---
 
-## 📚 Historical Description
+## 📚 Richard J. Gatling
 
 **Richard Jordan Gatling (1818–1903)** was an American inventor best known for developing the **Gatling gun**, one of the first successful rapid-fire weapons. Patented in 1862 during the American Civil War, the Gatling gun used multiple rotating barrels to achieve a high rate of fire, greatly advancing battlefield technology.
 
