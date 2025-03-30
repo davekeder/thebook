@@ -6,7 +6,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 ## 🖋️ Index
 
-- [Gatling](/pages/gatling.md)
+- [Richard J. Gatling](/pages/gatling.md)
 
 ## 🔎 About This Collection
 
