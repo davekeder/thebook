@@ -1,4 +1,4 @@
-# 🖋️ Benjamin F. Butler - Letter (1893)
+# 🖋️ Benjamin F. Butler - Letter (1867)
 
 <img src="assets/Butler_Letter.jpg" alt="Butler Letter" style="max-width: 80%; height: auto;"/>
 ---
