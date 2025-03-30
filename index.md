@@ -8,6 +8,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 - [Richard J. Gatling](gatling.md)
 - [William M. Springer](springer.md)
+- [Clinton B. Fisk](fisk.md)
 
 ## 🔎 About This Collection
 
