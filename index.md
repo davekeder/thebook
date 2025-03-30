@@ -12,6 +12,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Neal Dow](dow.md)
 - [James Tanner](tanner.md)
 - [Thomas Wentworth Higginson](higginson.md)
+- [Alexander P Stewart](stewart.md)
 
 ## 🔎 About This Collection
 
