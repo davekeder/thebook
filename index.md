@@ -1,6 +1,6 @@
-# 📜 Historical Autographs & Letters Collection
+# 📜 The Historical Autographs & Letters Collection of C.W. Mills
 
-Welcome to the **Historical Autographs & Letters Collection**, a curated gallery showcasing fascinating documents from notable figures across history. Click on any name below to explore high-resolution images and detailed descriptions.
+Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a gallery showcasing fascinating documents from notable figures of the 19th and early 20th century. Click on any name below to explore high-resolution images and detailed descriptions.
 
 ---
 
