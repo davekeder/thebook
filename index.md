@@ -10,6 +10,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [William M. Springer](springer.md)
 - [Clinton B. Fisk](fisk.md)
 - [Neal Dow](dow.md)
+- [James Tanner](tanner.md)
 
 ## 🔎 About This Collection
 
