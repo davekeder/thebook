@@ -6,7 +6,6 @@
 ## 📜 Transcription
 
 Washington City,
-
 April 22nd 1867.
 
 Sir.
@@ -16,11 +15,8 @@ You ask for a sentiment. I am not sentimental.
 Yours Truly,
 
 B.F. Butler
-
 C.H. Gordon Esq
-
 Box 233, P.O.
-
 New York City
 
 
