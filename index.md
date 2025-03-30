@@ -6,10 +6,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 ## 🖋️ Index
 
-- [Abraham Lincoln](lincoln.md)
-- [Marie Curie](curie.md)
-- [Winston Churchill](churchill.md)
-- [Mark Twain](twain.md)
+- [Gatling](/pages/gatling.md)
 
 ## 🔎 About This Collection
 
