@@ -1,6 +1,6 @@
 # 🖋️ Alexander P Stewart - Letters & Signature (1893)
 
-<img src="assets/Alex_P_Stewart_Letters.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+<img src="assets/Alex_P_Stewart_Letters.jpg" alt="Stewart Letter" style="max-width: 80%; height: auto;"/>
 
 ---
 
