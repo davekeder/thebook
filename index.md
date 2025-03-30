@@ -6,8 +6,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 ## 🖋️ Index
 
-- [Richard J. Gatling](/pages/gatling.md)
-- [William M. Springer](/pages/springer.md)
+- [Richard J. Gatling](gatling.md)
+- [William M. Springer](springer.md)
 
 ## 🔎 About This Collection
 
