@@ -1,6 +1,6 @@
 # 🖋️ Richard J. Gatling - Letter (1893)
 
-![Gatling Letter](assets/gatling_letter.jpg)
+![Gatling Letter](./assets/gatling_letter.jpg)
 
 ---
 
