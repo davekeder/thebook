@@ -39,7 +39,7 @@ of the C.S. Army
 
 Aug. 21, ‘93
 
-I was not rec. while I was suffering night worst of other days not – was laid away & turned up – regularly to-day – Request cheerfully complied with though often somewhat difficult for me to write.
+I was not rec. while I was suffering with a fractured right wrist and other injuries – was laid away & turned up – regularly to-day – Request cheerfully complied with though often somewhat difficult for me to write.
 
 Alex. P. Stewart
 
