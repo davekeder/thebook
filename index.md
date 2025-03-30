@@ -15,6 +15,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Alexander P Stewart](stewart.md)
 - [Benjamin F Butler](butler.md)
 - [Horatio Alger](alger.md)
+- [James Beaver](beaver.md)
 
 ## 🔎 About This Collection
 
