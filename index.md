@@ -13,6 +13,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [James Tanner](tanner.md)
 - [Thomas Wentworth Higginson](higginson.md)
 - [Alexander P Stewart](stewart.md)
+- [Benjamin F Butler](butler.md)
 
 ## 🔎 About This Collection
 
