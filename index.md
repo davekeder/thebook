@@ -11,6 +11,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Clinton B. Fisk](fisk.md)
 - [Neal Dow](dow.md)
 - [James Tanner](tanner.md)
+- [Thomas Wentworth Higginson](higginson.md)
 
 ## 🔎 About This Collection
 
