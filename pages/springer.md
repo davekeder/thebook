@@ -24,7 +24,7 @@ Wm. M. Springer
 
 ---
 
-## 📚 Historical Description
+## 📚 William M. Springer
 
 **William McKendree Springer (1836–1903)** was a U.S. Congressman from Illinois who served in the House of Representatives from 1875 to 1895. He was a prominent member of the Democratic Party and chaired several influential committees during his tenure, including the Committee on Ways and Means and the Committee on Banking and Currency.
 
