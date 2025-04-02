@@ -7,7 +7,7 @@
 
 7-30-93  
 Albany Cal.  
-Mr. Mills, on his 4th  
+Mr. Mills, dear sir  
 
 It is impossible not to admire your precision. All men who have done anything in the far have done it from simplicity to do it. Writers do not seek the task, the task seeks them: and a force as it is, as a source. If you must write, you will. That is all there is of it. With love to you.
 

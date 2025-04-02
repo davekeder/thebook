@@ -21,7 +21,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 ## 🔎 About This Collection
 
-This collection aims to preserve and present historical documents with context and care. Each item is accompanied by high-resolution scans and historical commentary.
+This collection aims to preserve and present historical documents with context and care. Each item is accompanied by high-resolution scans and historical commentary. Transcriptions may not be 100% accurate
 
 ---
 
