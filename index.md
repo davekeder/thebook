@@ -19,10 +19,12 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Julia Ward Howe](howe.md)
 - [Joaquin Miller](miller.md)
 - [Archibald Clavering Gunter](gunter.md)
+- [Mrs. Henry Ward Beecher](beecher.md)
+- [Frank Willard](willard.md)
 
 ## 🔎 About This Collection
 
-This collection aims to preserve and present historical documents with context and care. Each item is accompanied by high-resolution scans and historical commentary. Transcriptions may not be 100% accurate
+This collection aims to preserve and present historical documents with context and care. Each item is accompanied by high-resolution scans and historical commentary. Transcriptions may not be 100% accurate.
 
 ---
 
