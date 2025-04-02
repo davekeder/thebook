@@ -18,6 +18,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [James Beaver](beaver.md)
 - [Julia Ward Howe](howe.md)
 - [Joaquin Miller](miller.md)
+- [Archibald Clavering Gunter](gunter.md)
 
 ## 🔎 About This Collection
 
