@@ -16,6 +16,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Benjamin F Butler](butler.md)
 - [Horatio Alger](alger.md)
 - [James Beaver](beaver.md)
+- [Julia Ward Howe](howe.md)
 
 ## 🔎 About This Collection
 
