@@ -10,7 +10,7 @@ Nov. 14, 1936
 
 Dear Mr. Mills:—  
 
-Thanks a lot for sending me the clippings about “Moon” election—I got a hellova kick out of that. I have lost my taste for tackling the red Tarpon—gave just between you and me, and some ailment troubles its been a lot more healthy for you truly away from good old Sarasota. But I wish you’d ask me this spring and maybe I can smuggle myself out your swell boat disguised as a keg of beer.  
+Thanks a lot for sending me the clippings about “Moon's” election—I got a hellova kick out of that. Nope I sure haven't lost my taste for tackling the red Tarpon—but just between you and me, and some alimony troubles its been a lot more healthy for you truly away from good old Sarasota. But I wish you’d ask me this spring and maybe I can smuggle myself onto your swell boat disguised as a keg of beer or something.  
 
 With best regards and thanks again,  
 
