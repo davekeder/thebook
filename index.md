@@ -21,6 +21,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Archibald Clavering Gunter](gunter.md)
 - [Mrs. Henry Ward Beecher](beecher.md)
 - [Frank Willard](willard.md)
+- [Susan B. Anthony](anthony.md)
 
 ## 🔎 About This Collection
 
