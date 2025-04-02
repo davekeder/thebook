@@ -1,4 +1,4 @@
-# 🖋️ Susan B. Anthony - Letter (1899)
+# 🖋️ Susan B. Anthony - Letter (1893)
 
 <img src="assets/Anthony_Letter.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
 <img src="assets/Anthony_Note.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
