@@ -23,6 +23,9 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Susan B. Anthony](anthony.md)
 - [William Tecumseh Sherman](sherman.md)
 - [P.G.T. Beauregard](beauregard.md)
+- [Joseph Bradford Carr](carr.md)
+- [Jules Verne](verne.md)
+- [Oliver Wendell Holmes Sr.](holmes.md)
 
 ## 🔎 About This Collection
 
