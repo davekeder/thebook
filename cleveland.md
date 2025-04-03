@@ -15,7 +15,7 @@ This page features the signatures of Grover Cleveland and his complete cabinet f
   </p>
 </div>
 
-### Cabinet Members (1893–1897)
+### Cabinet Members
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <img src="assets/Adlai_Stevenson.jpg" alt="Adlai Stevenson Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
