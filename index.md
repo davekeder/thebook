@@ -26,6 +26,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Joseph Bradford Carr](carr.md)
 - [Jules Verne](verne.md)
 - [Oliver Wendell Holmes Sr.](holmes.md)
+- [John Bidwell](bidwell.md)
+- [David Lincoln Ferris](ferris.md)
 
 ## 🔎 About This Collection
 
