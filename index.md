@@ -28,6 +28,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Oliver Wendell Holmes Sr.](holmes.md)
 - [John Bidwell](bidwell.md)
 - [David Lincoln Ferris](ferris.md)
+- [Grover Cleveland and Complete Cabinet, 1893](cleveland.md)
 
 ## 🔎 About This Collection
 
