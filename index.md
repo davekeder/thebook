@@ -1,7 +1,6 @@
 # 📜 The Historical Autographs & Letters Collection of C.W. Mills
 
-Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a gallery showcasing fascinating documents from notable figures of the 19th and early 20th century. Click on any name below to explore high-resolution images and detailed descriptions.
-
+Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a gallery showcasing fascinating documents from notable figures of the 19th and early 20th century. Click on any name below to explore high-resolution images and detailed descriptions. This site is very much a work in progress, with many more interesting letters and signatures to come.
 ---
 
 ## 🖋️ Index
@@ -22,6 +21,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Mrs. Henry Ward Beecher](beecher.md)
 - [Frank Willard](willard.md)
 - [Susan B. Anthony](anthony.md)
+- [William Tecumseh Sherman](sherman.md)
+- [P.G.T. Beauregard](beauregard.md)
 
 ## 🔎 About This Collection
 
