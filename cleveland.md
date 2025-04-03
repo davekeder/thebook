@@ -97,19 +97,6 @@ This page features the signatures of Grover Cleveland and his complete cabinet f
   </p>
 </div>
 
-<style>
-@media (max-width: 600px) {
-  div[style*="display: flex"] {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  div[style*="display: flex"] img {
-    margin-right: 0;
-    margin-bottom: 10px;
-  }
-}
-</style>
-
 ---
 
 ## 🔗 Return to [Index](index.md)
