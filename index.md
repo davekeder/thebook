@@ -29,6 +29,7 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [John Bidwell](bidwell.md)
 - [David Lincoln Ferris](ferris.md)
 - [Grover Cleveland and Complete Cabinet, 1893](cleveland.md)
+- [Collection of Notable Signatures](signatures.md)
 
 ## 🔎 About This Collection
 
