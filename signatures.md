@@ -310,17 +310,17 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 ### Authors and Poets
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Ralph_Waldo_Emerson_Full.jpg" target="_blank">
+    <img src="assets/signatures/Ralph_Waldo_Emerson.jpg" alt="Ralph Waldo Emerson Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;">🌟 <strong>Ralph Waldo Emerson (1803–1882)</strong> 🌟: Ralph Waldo Emerson was an American essayist, poet, and philosopher who led the Transcendentalist movement, profoundly shaping 19th-century American intellectual thought. His essays, such as *Self-Reliance* (1841) and *Nature* (1836), emphasized individualism, spiritual connection to nature, and the rejection of materialism, influencing writers like Henry David Thoreau and Walt Whitman. As a lecturer, Emerson spoke widely on abolition, education, and reform, becoming a central figure in American literary and philosophical circles. His ideas on self-reliance and transcendentalism remain foundational to American cultural identity, making his autograph a highlight of this collection.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Harriet_Beecher_Stowe.jpg" target="_blank">
     <img src="assets/signatures/Harriet_Beecher_Stowe.jpg" alt="Harriet Beecher Stowe Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;">🌟 <strong>Harriet Beecher Stowe (1811–1896)</strong> 🌟: Harriet Beecher Stowe was an American novelist and abolitionist whose 1852 novel *Uncle Tom’s Cabin* had a profound impact on the anti-slavery movement in the United States. The book, which depicted the harsh realities of slavery, sold over 300,000 copies in its first year and was credited with shifting public opinion in the North, earning praise from abolitionists and criticism from slaveholders. Stowe, a member of a prominent religious family, continued to write and advocate for social reform throughout her life, including works on women’s roles and education. Her international fame, including meetings with Queen Victoria, cemented her legacy as a literary and moral force.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="assets/signatures/Ralph_Waldo_Emerson.jpg" target="_blank">
-    <img src="assets/signatures/Ralph_Waldo_Emerson.jpg" alt="Ralph Waldo Emerson Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
-  </a>
-  <p style="flex: 1; min-width: 300px;">🌟 <strong>Ralph Waldo Emerson (1803–1882)</strong> 🌟: Ralph Waldo Emerson was an American essayist, poet, and philosopher who led the Transcendentalist movement, profoundly shaping 19th-century American intellectual thought. His essays, such as *Self-Reliance* (1841) and *Nature* (1836), emphasized individualism, spiritual connection to nature, and the rejection of materialism, influencing writers like Henry David Thoreau and Walt Whitman. As a lecturer, Emerson spoke widely on abolition, education, and reform, becoming a central figure in American literary and philosophical circles. His ideas on self-reliance and transcendentalism remain foundational to American cultural identity, making his autograph a highlight of this collection.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
