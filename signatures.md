@@ -6,7 +6,7 @@ layout: default
 
 ## 📜 Overview
 
-This page showcases a collection of 85 signatures from prominent figures of the late 19th century, likely collected by C. W. Mills as part of his efforts to gather autographs from notable individuals of the era. The signatures are categorized by the individuals’ primary roles or contributions, including politicians, military figures, authors, activists, entertainers, and other notable personalities. **Note**: This collection includes highlighted autographs from especially prominent figures, marked with 🌟 symbols, such as Thomas Edison, Frederick Douglass, and Benjamin Harrison. Look for them in their respective categories below!
+This page showcases a collection of 85 signatures from prominent figures of the late 19th century, collected by C. W. Mills as part of his efforts to gather autographs from notable individuals of the era. The signatures are categorized by the individuals’ primary roles or contributions, including politicians, military figures, authors, activists, entertainers, and other notable personalities. **Note**: This collection includes highlighted autographs from especially prominent figures, marked with 🌟 symbols, such as Thomas Edison, Frederick Douglass, and Benjamin Harrison. Look for them in their respective categories below!
 
 ---
 
