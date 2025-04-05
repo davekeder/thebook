@@ -7,7 +7,6 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 - [Richard J. Gatling](gatling.md)
 - [William M. Springer](springer.md)
-- [Clinton B. Fisk](fisk.md)
 - [Neal Dow](dow.md)
 - [James Tanner](tanner.md)
 - [Thomas Wentworth Higginson](higginson.md)
@@ -28,7 +27,10 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Oliver Wendell Holmes Sr.](holmes.md)
 - [John Bidwell](bidwell.md)
 - [David Lincoln Ferris](ferris.md)
-- [Grover Cleveland and Complete Cabinet, 1893](cleveland.md)
+- [Danniel Butterfield](butterfield.md)
+- [Jubal Early](early.md)
+- [Eddie Collins](collins.md)
+- [Grover Cleveland and Cabinet, 1893](cleveland.md)
 - [Collection of Notable Signatures](signatures.md)
 
 ## 🔎 About This Collection

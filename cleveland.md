@@ -2,7 +2,7 @@
 
 ## 📜 Signatures and Descriptions
 
-This page features the signatures of Grover Cleveland and his complete cabinet from his second term in 1893, likely collected by C. W. Mills as part of his efforts to gather autographs from prominent figures of the era. Below, each signature is displayed alongside a brief description of the individual’s role and contributions during Cleveland’s administration.
+This page features the signatures of Grover Cleveland and his entire cabinet from his second term in 1893, collected by C. W. Mills as part of his efforts to gather autographs from prominent figures of the era. Below, each signature is displayed alongside a brief description of the individual’s role and contributions during Cleveland’s administration.
 
 ---
 
