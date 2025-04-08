@@ -61,6 +61,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Clinton_B_Fisk_Full.jpg" target="_blank">
+    <img src="assets/signatures/Clinton_B_Fisk.jpg" alt="Clinton B. Fisk Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Clinton B. Fisk (1828–1890)</strong>: A Union general during the Civil War, Fisk was a key figure in the Freedmen’s Bureau, aiding formerly enslaved people. He later ran for governor of New Jersey in 1886 as a Prohibition Party candidate and founded Fisk University in Tennessee.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Daniel_E_Sickels.jpg" target="_blank">
     <img src="assets/signatures/Daniel_E_Sickels.jpg" alt="Daniel E. Sickels Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -429,6 +436,27 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Kate_Douglas_Wiggin.jpg" target="_blank">
+    <img src="assets/signatures/Kate_Douglas_Wiggin.jpg" alt="Kate Douglas Wiggin Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Kate Douglas Wiggin (1856–1923)</strong>: An American author and educator, Wiggin wrote *Rebecca of Sunnybrook Farm* (1903), a beloved children’s novel. She also pioneered kindergarten education in the U.S. West.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Kate_Field_Full.jpg" target="_blank">
+    <img src="assets/signatures/Kate_Field.jpg" alt="Kate Field Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Kate Field (1838–1896)</strong>: An American journalist and author, Field wrote for major newspapers and lectured widely on literature and women’s issues. She founded *Kate Field’s Washington*, a cultural review, in 1890.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Marietta_Holley.jpg" target="_blank">
+    <img src="assets/signatures/Marietta_Holley.jpg" alt="Marietta Holley Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Marietta Holley (1836–1926)</strong>: An American humorist known as the "Female Mark Twain," Holley wrote the *Samantha Allen* series under the pseudonym "Josiah Allen's Wife." Her satirical works, like *My Opinions and Betsey Bobbet's* (1873), critiqued gender roles and advocated for women's suffrage.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Marion_Harland.jpg" target="_blank">
     <img src="assets/signatures/Marion_Harland.jpg" alt="Marion Harland Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -468,6 +496,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
     <img src="assets/signatures/William_Cullen_Bryant.jpg" alt="William Cullen Bryant Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>William Cullen Bryant (1794–1878)</strong>: An American poet, Bryant wrote *Thanatopsis* (1817) and edited the *New-York Evening Post*, influencing literary and political discourse.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/William_Dean_Howells.jpg" target="_blank">
+    <img src="assets/signatures/William_Dean_Howells.jpg" alt="William Dean Howells Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>William Dean Howells (1837–1920)</strong>: An American novelist and critic, Howells championed literary realism with works like *The Rise of Silas Lapham* (1885). As editor of *The Atlantic Monthly*, he shaped Gilded Age literature.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
@@ -522,6 +557,20 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Mary_Livermore_Full.jpg" target="_blank">
+    <img src="assets/signatures/Mary_Livermore.jpg" alt="Mary Livermore Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Mary Livermore (1820–1905)</strong>: An American suffragist and reformer, Livermore organized sanitary aid during the Civil War and later lectured on women’s rights, co-editing *The Agitator* and advocating for suffrage across the U.S.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Thomas_DeWitt_Talmage.jpg" target="_blank">
+    <img src="assets/signatures/Thomas_DeWitt_Talmage.jpg" alt="Thomas DeWitt Talmage Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Thomas DeWitt Talmage (1832–1902)</strong>: An American Presbyterian preacher, Talmage was a celebrity orator whose sermons, printed weekly, reached millions. He championed social reform and led Brooklyn’s Tabernacle church.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/William_Jennings_Demorest.jpg" target="_blank">
     <img src="assets/signatures/William_Jennings_Demorest.jpg" alt="William Jennings Demorest Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -559,10 +608,24 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Henry_Irving_Full.jpg" target="_blank">
+    <img src="assets/signatures/Henry_Irving.jpg" alt="Henry Irving Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Henry Irving (1838–1905)</strong>: A British actor and theater manager, Irving was the first actor knighted (1895) for his contributions to the stage. Renowned for his Shakespearean roles, he managed the Lyceum Theatre, elevating Victorian theater’s prestige.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Ignacy_Jan_Paderewski.jpg" target="_blank">
     <img src="assets/signatures/Ignacy_Jan_Paderewski.jpg" alt="Ignacy Jan Paderewski Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>Ignacy Jan Paderewski (1860–1941)</strong>: A Polish pianist and composer, Paderewski was a global celebrity for his virtuosic performances and later served as Poland’s Prime Minister.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Ira_D_Sankey_Full.jpg" target="_blank">
+    <img src="assets/signatures/Ira_D_Sankey.jpg" alt="Ira D. Sankey Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Ira D. Sankey (1840–1908)</strong>: An American gospel singer and composer, Sankey partnered with Dwight L. Moody in revival campaigns, popularizing hymns like “The Ninety and Nine.” His songbooks shaped 19th-century evangelical music.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
