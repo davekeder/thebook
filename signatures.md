@@ -145,6 +145,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Kaiulani.jpg" target="_blank">
+    <img src="assets/signatures/Kaiulani.jpg" alt="Kaiulani Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Kaiulani (1875–1899)</strong>: The last heir to the Hawaiian throne, Princess Kaiulani advocated for the restoration of the monarchy after its overthrow in 1893.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Levi_P_Morton.jpg" target="_blank">
     <img src="assets/signatures/Levi_P_Morton.jpg" alt="Levi P. Morton Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -528,6 +535,14 @@ This page showcases a collection of 85 signatures from prominent figures of the 
   <p style="flex: 1; min-width: 300px;">🌟 <strong>Elizabeth Cady Stanton (1815–1902)</strong> 🌟 Elizabeth Cady Stanton was a leading American suffragist and social reformer who played a pivotal role in the women’s rights movement in the 19th century. She co-organized the 1848 Seneca Falls Convention, the first women’s rights convention, where she presented the *Declaration of Sentiments*, demanding equal rights for women, including the right to vote. Stanton worked closely with Susan B. Anthony, co-founding the National Woman Suffrage Association in 1869, and authored influential works like *The Woman’s Bible*, challenging religious justifications for gender inequality. Her lifelong advocacy laid the groundwork for the eventual passage of the 19th Amendment, making her a cornerstone of the fight for gender equality.</p>
 </div>
 
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Darius_Ogden_Mills.jpg" target="_blank">
+    <img src="assets/signatures/Darius_Ogden_Mills.jpg" alt="Darius Ogden Mills Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Darius Ogden Mills (1825–1910)</strong>: An American businessman, Mills was a financier and philanthropist who founded the Bank of California and supported charitable causes.</p>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Dwight_L_Moody.jpg" target="_blank">
     <img src="assets/signatures/Dwight_L_Moody.jpg" alt="Dwight L. Moody Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
@@ -662,24 +677,6 @@ This page showcases a collection of 85 signatures from prominent figures of the 
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>William J. Florence (1831–1891)</strong>: An American actor, Florence was a popular stage performer and co-founder of the Shriners, a fraternal organization.</p>
 </div>
-
-### Other Notable Figures
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="assets/signatures/Darius_Ogden_Mills.jpg" target="_blank">
-    <img src="assets/signatures/Darius_Ogden_Mills.jpg" alt="Darius Ogden Mills Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
-  </a>
-  <p style="flex: 1; min-width: 300px;"><strong>Darius Ogden Mills (1825–1910)</strong>: An American businessman, Mills was a financier and philanthropist who founded the Bank of California and supported charitable causes.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="assets/signatures/Kaiulani.jpg" target="_blank">
-    <img src="assets/signatures/Kaiulani.jpg" alt="Kaiulani Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
-  </a>
-  <p style="flex: 1; min-width: 300px;"><strong>Kaiulani (1875–1899)</strong>: The last heir to the Hawaiian throne, Princess Kaiulani advocated for the restoration of the monarchy after its overthrow in 1893.</p>
-</div>
-
-
 
 ---
 
