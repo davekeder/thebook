@@ -33,6 +33,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Daniel_Webster.jpg" target="_blank">
+    <img src="assets/signatures/Daniel_Webster.jpg" alt="Daniel Webster Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;">🌟 <strong>Daniel Webster (1782–1852)</strong> 🌟 Daniel Webster was a leading American statesman, orator, and lawyer of the early 19th century, known for his defense of the Union and his role in shaping national policy. A U.S. Senator from Massachusetts and Secretary of State under three presidents, Webster was a key figure in the Whig Party. His eloquent speeches, like the "Second Reply to Hayne" (1830), championed national unity, while his legal arguments in cases like *Dartmouth College v. Woodward* (1819) strengthened federal authority. Webster’s support for the Compromise of 1850 aimed to preserve the Union but drew criticism from abolitionists. His legacy as one of the "Great Triumvirate" alongside Henry Clay and John C. Calhoun cements his place as a pivotal figure in American history.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Arthur_P_Gorman.jpg" target="_blank">
     <img src="assets/signatures/Arthur_P_Gorman.jpg" alt="Arthur P. Gorman Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
