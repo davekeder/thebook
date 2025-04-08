@@ -40,6 +40,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/John_C_Calhoun.jpg" target="_blank">
+    <img src="assets/signatures/John_C_Calhoun.jpg" alt="John C. Calhoun Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;">🌟 <strong>John C. Calhoun (1782–1850)</strong> 🌟 John C. Calhoun was a prominent American statesman and political theorist, serving as U.S. Vice President under John Quincy Adams and Andrew Jackson (1825–1832). A South Carolina Senator and Secretary of State, Calhoun was a leading advocate for states’ rights and nullification, arguing that states could nullify federal laws, as outlined in his "South Carolina Exposition and Protest" (1828). A defender of slavery as a “positive good,” he played a key role in the sectional conflicts leading to the Civil War. As part of the "Great Triumvirate" with Daniel Webster and Henry Clay, Calhoun’s ideas shaped Southern political thought, leaving a complex legacy in American history.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Arthur_P_Gorman.jpg" target="_blank">
     <img src="assets/signatures/Arthur_P_Gorman.jpg" alt="Arthur P. Gorman Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -121,13 +128,6 @@ This page showcases a collection of 85 signatures from prominent figures of the 
     <img src="assets/signatures/John_A_Logan.jpg" alt="John A. Logan Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>John A. Logan (1826–1886)</strong>: A U.S. Senator from Illinois, Logan was a Civil War general who championed veterans’ rights and ran as the Republican vice-presidential candidate in 1884.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="assets/signatures/John_C_Calhoun.jpg" target="_blank">
-    <img src="assets/signatures/John_C_Calhoun.jpg" alt="John C. Calhoun Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
-  </a>
-  <p style="flex: 1; min-width: 300px;"><strong>John C. Calhoun (1782–1850)</strong>: A former U.S. Vice President (1825–1832), Calhoun was a South Carolina statesman and advocate for states’ rights, though deceased by 1893.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
