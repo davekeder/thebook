@@ -30,6 +30,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Danniel Butterfield](butterfield.md)
 - [Jubal Early](early.md)
 - [Eddie Collins](collins.md)
+- [Mary Jane Holmes](mjholmes.md)
+- [Horace Porter](porter.md)
 - [Grover Cleveland and Cabinet, 1893](cleveland.md)
 - [Collection of Notable Signatures](signatures.md)
 
