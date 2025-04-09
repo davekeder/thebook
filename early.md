@@ -1,6 +1,7 @@
 # 🖋️ Jubal Early - Letter (1893)
 
-<img src="assets/letters/Early_Letter.jpg" alt="Mills to Early Letter" style="max-width: 80%; height: auto;"/>
+<img src="assets/letters/Early_Letter_1.jpg" alt="Jubal Early Letter 1" style="max-width: 80%; height: auto;"/>
+<img src="assets/letters/Early_Letter_2.jpg" alt="Jubal Early Letter 2" style="max-width: 80%; height: auto;"/>
 
 ---
 
