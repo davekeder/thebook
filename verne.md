@@ -1,7 +1,11 @@
 # 🖋️ Jules Verne - Letters (1893)
 
-<img src="assets/Verne_Letter_1.jpg" alt="Verne Letter July 23, 1893" style="max-width: 80%; height: auto;"/>
-<img src="assets/Verne_Letter_2.jpg" alt="Verne Letter July 24, 1893" style="max-width: 80%; height: auto;"/>
+<a href="assets/Verne_Letter_1.jpg" target="_blank">
+  <img src="assets/Verne_Letter_1.jpg" alt="Verne Letter July 23, 1893" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Verne_Letter_2.jpg" target="_blank">
+  <img src="assets/Verne_Letter_2.jpg" alt="Verne Letter July 24, 1893" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

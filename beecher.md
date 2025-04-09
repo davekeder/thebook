@@ -1,7 +1,11 @@
 # 🖋️ Mrs. Henry Ward Beecher - Letter (1893)
 
-<img src="assets/Beecher_Letter.jpg" alt="Beecher Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Beecher_Sig.jpg" alt="Beecher Signature" style="max-width: 80%; height: auto;"/>
+<a href="assets/Beecher_Letter.jpg" target="_blank">
+  <img src="assets/Beecher_Letter.jpg" alt="Beecher Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Beecher_Sig.jpg" target="_blank">
+  <img src="assets/Beecher_Sig.jpg" alt="Beecher Signature" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

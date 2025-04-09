@@ -1,8 +1,14 @@
 # 🖋️ Archibald Clavering Gunter - Letter (1893)
 
-<img src="assets/Gunter_Letter_1.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Gunter_Letter_2.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Gunter_Letter_3.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Gunter_Letter_1.jpg" target="_blank">
+  <img src="assets/Gunter_Letter_1.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Gunter_Letter_2.jpg" target="_blank">
+  <img src="assets/Gunter_Letter_2.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Gunter_Letter_3.jpg" target="_blank">
+  <img src="assets/Gunter_Letter_3.jpg" alt="Gunter Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

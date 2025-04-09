@@ -1,6 +1,8 @@
 # 🖋️ Neal Dow - Letter (1893)
 
-<img src="assets/Dow_Letter.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Dow_Letter.jpg" target="_blank">
+  <img src="assets/Dow_Letter.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

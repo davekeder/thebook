@@ -1,8 +1,14 @@
 # 🖋️ Susan B. Anthony - Letter (1893)
 
-<img src="assets/Anthony_Letter.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Anthony_Note.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Anthony_Signatures.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Anthony_Letter.jpg" target="_blank">
+  <img src="assets/Anthony_Letter.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Anthony_Note.jpg" target="_blank">
+  <img src="assets/Anthony_Note.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Anthony_Signatures.jpg" target="_blank">
+  <img src="assets/Anthony_Signatures.jpg" alt="Anthony Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

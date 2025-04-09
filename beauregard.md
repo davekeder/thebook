@@ -1,4 +1,6 @@
-<img src="assets/Beauregard_Letter.jpg" alt="Beauregard Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Beauregard_Letter.jpg" target="_blank">
+  <img src="assets/Beauregard_Letter.jpg" alt="Beauregard Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

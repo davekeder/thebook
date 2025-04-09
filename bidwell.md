@@ -1,7 +1,11 @@
 # 🖋️ John Bidwell - Letter (1893)
 
-<img src="assets/Bidwell_Letter_1.jpg" alt="Bidwell Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Bidwell_Letter_2.jpg" alt="Bidwell Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Bidwell_Letter_1.jpg" target="_blank">
+  <img src="assets/Bidwell_Letter_1.jpg" alt="Bidwell Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Bidwell_Letter_2.jpg" target="_blank">
+  <img src="assets/Bidwell_Letter_2.jpg" alt="Bidwell Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

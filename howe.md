@@ -1,6 +1,8 @@
 # 🖋️ Julia Ward Howe - Letter (1893)
 
-<img src="assets/Howe_Letter.jpg" alt="Howe Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Howe_Letter.jpg" target="_blank">
+  <img src="assets/Howe_Letter.jpg" alt="Howe Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

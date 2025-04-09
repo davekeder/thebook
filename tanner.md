@@ -1,7 +1,11 @@
 # 🖋️ James Tanner - Letter (1893)
 
-<img src="assets/Tanner_Letter_1.jpg" alt="Tanner Letter 1" style="max-width: 80%; height: auto;"/>
-<img src="assets/Tanner_Letter_2.jpg" alt="Tanner Letter 2" style="max-width: 80%; height: auto;"/>
+<a href="assets/Tanner_Letter_1.jpg" target="_blank">
+  <img src="assets/Tanner_Letter_1.jpg" alt="Tanner Letter 1" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Tanner_Letter_2.jpg" target="_blank">
+  <img src="assets/Tanner_Letter_2.jpg" alt="Tanner Letter 2" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

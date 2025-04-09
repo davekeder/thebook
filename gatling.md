@@ -1,6 +1,8 @@
 # 🖋️ Richard J. Gatling - Letter (1893)
 
-<img src="assets/gatling_letter.jpg" alt="Gatling Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/gatling_letter.jpg" target="_blank">
+  <img src="assets/gatling_letter.jpg" alt="Gatling Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

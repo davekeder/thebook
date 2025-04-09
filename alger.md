@@ -1,6 +1,8 @@
 # 🖋️ Horatio Alger - Letter (1893)
 
-<img src="assets/Horatio_Alger_Letter.jpg" alt="Alger Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Horatio_Alger_Letter.jpg" target="_blank">
+  <img src="assets/Horatio_Alger_Letter.jpg" alt="Alger Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

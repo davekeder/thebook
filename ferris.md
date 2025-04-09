@@ -1,6 +1,8 @@
 # 🖋️ David Lincoln Ferris - Letter (1930)
 
-<img src="assets/Ferris_Letter.jpg" alt="Ferris Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Ferris_Letter.jpg" target="_blank">
+  <img src="assets/Ferris_Letter.jpg" alt="Ferris Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

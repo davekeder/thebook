@@ -1,6 +1,8 @@
 # 🖋️ Joaquin Miller - Letter (1893)
 
-<img src="assets/Miller_Letter.jpg" alt="Miller Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Miller_Letter.jpg" target="_blank">
+  <img src="assets/Miller_Letter.jpg" alt="Miller Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

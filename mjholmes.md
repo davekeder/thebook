@@ -1,8 +1,14 @@
 # 🖋️ Mary Jane Holmes - Letter (1893)
 
-<img src="assets/Mary_Jane_Holmes_Letter_1.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Mary_Jane_Holmes_Letter_2.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Mary_Jane_Holmes_Letter_3.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Mary_Jane_Holmes_Letter_1.jpg" target="_blank">
+  <img src="assets/Mary_Jane_Holmes_Letter_1.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Mary_Jane_Holmes_Letter_2.jpg" target="_blank">
+  <img src="assets/Mary_Jane_Holmes_Letter_2.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Mary_Jane_Holmes_Letter_3.jpg" target="_blank">
+  <img src="assets/Mary_Jane_Holmes_Letter_3.jpg" alt="Mary Jane Holmes Letter" style="max-width: 80%; height: auto;"/>
+</a>
 
 ---
 

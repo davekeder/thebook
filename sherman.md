@@ -1,4 +1,6 @@
-<img src="assets/Sherman_Letter.jpg" alt="Sherman Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Sherman_Letter.jpg" target="_blank">
+  <img src="assets/Sherman_Letter.jpg" alt="Sherman Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

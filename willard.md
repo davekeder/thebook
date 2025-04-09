@@ -1,6 +1,8 @@
 # 🖋️ Frank H. Willard - Letter (1936)
 
-<img src="assets/Willard_Letter.jpg" alt="Willard Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Willard_Letter.jpg" target="_blank">
+  <img src="assets/Willard_Letter.jpg" alt="Willard Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

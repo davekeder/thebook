@@ -1,7 +1,11 @@
 # 🖋️ Thomas Wentworth Higginson - Letters (1893)
 
-<img src="assets/Higginson_Letter.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Higginson_Letter_2.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Higginson_Letter.jpg" target="_blank">
+  <img src="assets/Higginson_Letter.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Higginson_Letter_2.jpg" target="_blank">
+  <img src="assets/Higginson_Letter_2.jpg" alt="Dow Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcriptions

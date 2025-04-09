@@ -1,7 +1,11 @@
 # 🖋️ James Beaver - Letter (1893)
 
-<img src="assets/Beaver_Letter_1.jpg" alt="Beaver Letter 1" style="max-width: 80%; height: auto;"/>
-<img src="assets/Beaver_Letter_2.jpg" alt="Beaver Letter 2" style="max-width: 80%; height: auto;"/>
+<a href="assets/Beaver_Letter_1.jpg" target="_blank">
+  <img src="assets/Beaver_Letter_1.jpg" alt="Beaver Letter 1" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Beaver_Letter_2.jpg" target="_blank">
+  <img src="assets/Beaver_Letter_2.jpg" alt="Beaver Letter 2" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

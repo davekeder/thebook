@@ -1,6 +1,8 @@
 # 🖋️ Eddie Collins - Correspondence with C. W. Mills (1933)
 
-<img src="assets/letters/Eddie_Collins_Letter.jpg" alt="Eddie Collins" style="max-width: 80%; height: auto;"/>
+<a href="assets/letters/Eddie_Collins_Letter.jpg" target="_blank">
+  <img src="assets/letters/Eddie_Collins_Letter.jpg" alt="Eddie Collins" style="max-width: 80%; height: auto;"/>
+</a>
 
 ---
 

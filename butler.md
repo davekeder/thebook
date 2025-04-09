@@ -1,6 +1,8 @@
 # 🖋️ Benjamin F. Butler - Letter (1867)
 
-<img src="assets/Butler_Letter.jpg" alt="Butler Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Butler_Letter.jpg" target="_blank">
+  <img src="assets/Butler_Letter.jpg" alt="Butler Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

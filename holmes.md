@@ -1,6 +1,8 @@
 # 🖋️ Oliver Wendell Holmes Sr. - Letter (1893)
 
-<img src="assets/Holmes_Letter.jpg" alt="Holmes Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Holmes_Letter.jpg" target="_blank">
+  <img src="assets/Holmes_Letter.jpg" alt="Holmes Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription

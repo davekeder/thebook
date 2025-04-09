@@ -1,5 +1,9 @@
-<img src="assets/Carr_Letter_1.jpg" alt="Carr Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/Carr_Letter_2.jpg" alt="Carr Letter" style="max-width: 80%; height: auto;"/>
+<a href="assets/Carr_Letter_1.jpg" target="_blank">
+  <img src="assets/Carr_Letter_1.jpg" alt="Carr Letter" style="max-width: 80%; height: auto;"/>
+</a>
+<a href="assets/Carr_Letter_2.jpg" target="_blank">
+  <img src="assets/Carr_Letter_2.jpg" alt="Carr Letter" style="max-width: 80%; height: auto;"/>
+</a>
 ---
 
 ## 📜 Transcription
