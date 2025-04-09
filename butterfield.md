@@ -1,7 +1,7 @@
 # 🖋️ Daniel Butterfield - Correspondence with C. W. Mills (1893)
 
-<img src="assets/letters/Daniel_Butterfield_Request.jpg" alt="Mills to Butterfield Letter" style="max-width: 80%; height: auto;"/>
-<img src="assets/letters/Daniel_Butterfield_Letter.jpg" alt="Butterfield to Mills Letter" style="max-width: 80%; height: auto;"/>
+<img src="assets/Daniel_Butterfield_Request.jpg" alt="Mills to Butterfield Letter" style="max-width: 80%; height: auto;"/>
+<img src="assets/Daniel_Butterfield_Letter.jpg" alt="Butterfield to Mills Letter" style="max-width: 80%; height: auto;"/>
 
 ---
 
