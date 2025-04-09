@@ -35,3 +35,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+_config.yml
+make_images_clickable.py
