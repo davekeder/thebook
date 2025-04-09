@@ -5,6 +5,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 
 ## 🖋️ Index
 
+- [Collection of Notable Signatures](signatures.md)
+- [Grover Cleveland and Cabinet, 1893](cleveland.md)
 - [Richard J. Gatling](gatling.md)
 - [William M. Springer](springer.md)
 - [Neal Dow](dow.md)
@@ -44,8 +46,8 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Fitzhugh Lee](lee.md)
 - [George William Curtis](curtis.md)
 - [James Longstreet](longstreet.md)
-- [Grover Cleveland and Cabinet, 1893](cleveland.md)
-- [Collection of Notable Signatures](signatures.md)
+
+
 
 ## 🔎 About This Collection
 
