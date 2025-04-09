@@ -1,6 +1,6 @@
-# 📜 The Historical Autographs & Letters Collection of C.W. Mills
+# 📜 The Historical Letters & Signatures Collection of C.W. Mills
 
-Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a gallery showcasing fascinating documents from notable figures of the 19th and early 20th century. Click on any name below to explore high-resolution images and detailed descriptions.
+Welcome to the **Historical Letters & Signatures Collection of C.W. Mills**, a gallery showcasing fascinating documents from notable figures of the 19th and early 20th century. Click on any name below to explore high-resolution images and detailed descriptions.
 ---
 
 ## 🖋️ Index
@@ -46,6 +46,11 @@ Welcome to the **Historical Autographs & Letters Collection of C.W. Mills**, a g
 - [Fitzhugh Lee](lee.md)
 - [George William Curtis](curtis.md)
 - [James Longstreet](longstreet.md)
+- [Frances Willard](franceswillard.md)
+- [Francesco Satolli](satolli.md)
+- [Harriet Prescott Spofford](spofford.md)
+- [Ira Sankey](sankey.md)
+- [Octave Thanet](thanet.md)
 
 
 

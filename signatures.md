@@ -264,6 +264,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/William_F_Sheehan.jpg" target="_blank">
+    <img src="assets/signatures/William_F_Sheehan.jpg" alt="William F. Sheehan Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>William F. Sheehan (1859–1917)</strong>: William F. Sheehan was an American politician and lawyer, serving as Lieutenant Governor of New York (1892–1894) under Governor Roswell P. Flower. A prominent Democrat, he later became a key figure in New York politics and a delegate to the 1911 Constitutional Convention.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/William_Sulzer.jpg" target="_blank">
     <img src="assets/signatures/William_Sulzer.jpg" alt="William Sulzer Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
@@ -271,6 +278,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 ### Military Figures
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Francis_Asbury_Roe.jpg" target="_blank">
+    <img src="assets/signatures/Francis_Asbury_Roe.jpg" alt="Francis Asbury Roe Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Francis Asbury Roe (1823–1901)</strong>: Rear Admiral Francis Asbury Roe was a U.S. Navy officer who served during the Civil War, commanding ships like the USS Katahdin and participating in key operations, including the capture of New Orleans in 1862. He later rose to the rank of Rear Admiral and retired in 1885 after a distinguished career.</p>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/J_G_Walker.jpg" target="_blank">
@@ -284,6 +298,13 @@ This page showcases a collection of 85 signatures from prominent figures of the 
     <img src="assets/signatures/James_A_Greer.jpg" alt="James A. Greer Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>James A. Greer (1833–1904)</strong>: A Rear Admiral in the U.S. Navy, Greer served during the Civil War and later commanded the European Squadron in the 1880s.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/John_Hopkins.jpg" target="_blank">
+    <img src="assets/signatures/John_Hopkins.jpg" alt="John Hopkins Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>John Hopkins (1834–1917)</strong>: Rear Admiral John Ommanney Hopkins was a British Royal Navy officer who served in the late 19th century, notably as Commander-in-Chief of the North America and West Indies Station (1889–1892), overseeing naval operations during a period of British maritime dominance.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
@@ -543,18 +564,19 @@ This page showcases a collection of 85 signatures from prominent figures of the 
 </div>
 
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <a href="assets/signatures/Darius_Ogden_Mills.jpg" target="_blank">
-    <img src="assets/signatures/Darius_Ogden_Mills.jpg" alt="Darius Ogden Mills Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
-  </a>
-  <p style="flex: 1; min-width: 300px;"><strong>Darius Ogden Mills (1825–1910)</strong>: An American businessman, Mills was a financier and philanthropist who founded the Bank of California and supported charitable causes.</p>
-</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <a href="assets/signatures/Dwight_L_Moody.jpg" target="_blank">
     <img src="assets/signatures/Dwight_L_Moody.jpg" alt="Dwight L. Moody Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>Dwight L. Moody (1837–1899)</strong>: An American evangelist, Moody founded the Moody Bible Institute and led massive revival campaigns in the U.S. and Britain.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Frances_Willard_Full.jpg" target="_blank">
+    <img src="assets/signatures/Frances_Willard.jpg" alt="Frances Willard Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Frances Willard (1839–1898)</strong>: Frances Willard was a leading American temperance reformer and women’s rights activist, serving as president of the Woman’s Christian Temperance Union (1879–1898). She expanded the WCTU’s mission to include suffrage and social reform, advocating for “Home Protection” and leaving a lasting impact on both movements.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
@@ -683,6 +705,22 @@ This page showcases a collection of 85 signatures from prominent figures of the 
     <img src="assets/signatures/William_J_Florence.jpg" alt="William J. Florence Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
   </a>
   <p style="flex: 1; min-width: 300px;"><strong>William J. Florence (1831–1891)</strong>: An American actor, Florence was a popular stage performer and co-founder of the Shriners, a fraternal organization.</p>
+</div>
+
+### Philanthropists and Socialites
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Bertha_Palmer_Full.jpg" target="_blank">
+    <img src="assets/signatures/Bertha_Palmer.jpg" alt="Bertha Palmer Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Bertha Palmer (1849–1918)</strong>: Bertha Palmer was a Chicago socialite, philanthropist, and businesswoman, known for her leadership as president of the Board of Lady Managers at the 1893 World’s Columbian Exposition. Her efforts promoted women’s contributions and left a lasting cultural impact on Chicago.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <a href="assets/signatures/Darius_Ogden_Mills.jpg" target="_blank">
+    <img src="assets/signatures/Darius_Ogden_Mills.jpg" alt="Darius Ogden Mills Signature" style="width: 150px; height: auto; margin-right: 20px;"/>
+  </a>
+  <p style="flex: 1; min-width: 300px;"><strong>Darius Ogden Mills (1825–1910)</strong>: An American businessman, Mills was a financier and philanthropist who founded the Bank of California and supported charitable causes.</p>
 </div>
 
 ---
