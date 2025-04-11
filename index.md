@@ -21,7 +21,6 @@ A selection of letters from some of the most notable figures in the collection, 
 - [Oliver Wendell Holmes Sr.](holmes.md)  
 
 #### Letters from Military and Government Figures
-Correspondence from military leaders of the 19th century, including Civil War generals, naval officers, and inventors whose work impacted warfare.
 
 ##### [Responses to the West Point or Annapolis Inquiry](armynavy.md)
 In 1893, C.W. Mills wrote to several military and government figures asking for advice on whether to pursue a military education at West Point or Annapolis. The following letters contain their responses, offering insights into the challenges and opportunities of a military career in the late 19th century.
