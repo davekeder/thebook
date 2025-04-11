@@ -51,27 +51,27 @@ Welcome to the **Historical Letters & Signatures Collection of C.W. Mills**, a g
 - [Harriet Prescott Spofford](spofford.md)
 - [Ira Sankey](sankey.md)
 - [Octave Thanet](thanet.md)
-- [Edmund Kirby Smith]
-- [Ella Wheeler Wilcox]
-- [Frank M. Simpson]
-- [John Russell Young]
-- [John Willock Noble]
-- [Joseph Wheeler]
-- [Lunsford Lomax]
-- [Margaret Deland]
-- [Mary Livermore]
-- [Mary Mapes Dodge]
-- [Redfield Procter]
-- [Robert G. Ingersoll]
-- [Russell A. Alger]
-- [Stephen B. Elkins]
-- [Thomas H. Carter]
-- [Thomas K. Beecher]
-- [Thomas Nelson Page]
-- [Wade Hampton]
-- [Whitelaw Reid]
-- [William Allen Butler]
-- [William Croswell Doane]
+- Edmund Kirby Smith
+- Ella Wheeler Wilcox
+- Frank M. Simpson
+- John Russell Young
+- John Willock Noble
+- Joseph Wheeler
+- Lunsford Lomax
+- Margaret Deland
+- Mary Livermore
+- Mary Mapes Dodge
+- Redfield Procter
+- Robert G. Ingersoll
+- Russell A. Alger
+- Stephen B. Elkins
+- Thomas H. Carter
+- Thomas K. Beecher
+- Thomas Nelson Page
+- Wade Hampton
+- Whitelaw Reid
+- William Allen Butler
+- William Croswell Doane
 
 
 
