@@ -4,14 +4,12 @@ Welcome to the **Historical Letters & Signatures Collection of C.W. Mills**, a g
 
 ---
 
-## 🖋️ Index
-
-### Special Collections
+## Special Collections
 - [Collection of Notable Signatures](signatures.md)  
 - [Grover Cleveland and His 1893 Cabinet](cleveland.md)
 
-### The Letter Collection
-#### Highlighted Letters from Prominent Figures
+## 🖋️ The Letter Collection
+### Highlighted Letters from Prominent Figures
 A selection of letters from some of the most notable figures in the collection, representing key voices in history, literature, and social reform.
 
 - [Susan B. Anthony](anthony.md)
@@ -20,9 +18,9 @@ A selection of letters from some of the most notable figures in the collection, 
 - [James Longstreet](longstreet.md)  
 - [Oliver Wendell Holmes Sr.](holmes.md)  
 
-#### Letters from Military and Government Figures
+### Letters from Military and Government Figures
 
-##### [Responses to the West Point or Annapolis Inquiry](armynavy.md)
+#### [Responses to the West Point or Annapolis Inquiry](armynavy.md)
 In 1893, C.W. Mills wrote to several military and government figures asking for advice on whether to pursue a military education at West Point or Annapolis. The following letters contain their responses, offering insights into the challenges and opportunities of a military career in the late 19th century.
 
 - [Beverly Robertson](robertson.md)  
@@ -49,7 +47,7 @@ In 1893, C.W. Mills wrote to several military and government figures asking for 
 - [Benjamin Franklin Tracy](tracy.md)  
 - [Charles Foster](foster.md)  
 
-#### Other Letters from Notable Military and Government Figures 
+### Other Letters from Notable Military and Government Figures 
 
 - [P.G.T. Beauregard](beauregard.md)  
 - [Richard J. Gatling](gatling.md)  
@@ -66,7 +64,8 @@ In 1893, C.W. Mills wrote to several military and government figures asking for 
 - [Whitelaw Reid](#) *(coming soon)*  
 - [William M. Springer](springer.md)
 
-#### Letters from Authors and Poets
+### Letters from Authors and Poets
+
 - [Archibald Clavering Gunter](gunter.md)  
 - [Albert Ross](ross.md)  
 - [Augusta Wilson](wilson.md)  
@@ -87,7 +86,7 @@ In 1893, C.W. Mills wrote to several military and government figures asking for 
 - [Thomas Wentworth Higginson](higginson.md)  
 - [William Allen Butler](#) *(coming soon)*
 
-#### Letters from Activists and Reformers
+### Letters from Activists and Reformers
 - [Albion Tourgée](tourgee.md)  
 - [Belva Ann Lockwood](lockwood.md)  
 - [Frances Willard](franceswillard.md)  
@@ -97,14 +96,14 @@ In 1893, C.W. Mills wrote to several military and government figures asking for 
 - [Robert G. Ingersoll](#) *(coming soon)*  
 - [Susan B. Anthony](anthony.md)
 
-#### Letters from Religious Figures
+### Letters from Religious Figures
 - [David Lincoln Ferris](ferris.md)  
 - [Francesco Satolli](satolli.md)  
 - [Ira Sankey](sankey.md)  
 - [Thomas K. Beecher](#) *(coming soon)*  
 - [William Croswell Doane](#) *(coming soon)*
 
-#### Letters Obtained Later in Life
+### Letters Obtained Later in Life
 This section includes letters that C.W. Mills collected later in his life, likely in the early 20th century, reflecting his continued interest in notable figures beyond his 1893–1894 correspondence campaign.
 
 - [Frank Willard](willard.md)
