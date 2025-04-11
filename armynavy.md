@@ -1,0 +1,1 @@
+# 🖋️ On Whether to Attend West Point or Annapolis
