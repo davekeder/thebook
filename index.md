@@ -4,9 +4,9 @@ Welcome to the **Historical Letters & Signatures Collection of C.W. Mills**, a g
 
 ---
 
-## Special Collections
+## 🖋️ Signature Collections
 - [Collection of Notable Signatures](signatures.md)  
-- [Grover Cleveland and His 1893 Cabinet](cleveland.md)
+- [President Grover Cleveland and Cabinet of the United States (1893)](cleveland.md)
 
 ## 🖋️ The Letter Collection
 ### Highlighted Letters from Prominent Figures
