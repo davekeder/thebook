@@ -1,7 +1,7 @@
 # 🖋️ John Russell Young - Letter (1894)
 
-<a href="assets/John_Russell_Young_Letter.jpg" target="_blank">
-  <img src="assets/John_Russell_Young_Letter.jpg" alt="John Russell Young Letter" style="max-width: 80%; height: auto;"/>
+<a href="../assets/John_Russell_Young_Letter.jpg" target="_blank">
+  <img src="../assets/John_Russell_Young_Letter.jpg" alt="John Russell Young Letter" style="max-width: 80%; height: auto;"/>
 </a>
 
 ---
