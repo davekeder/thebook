@@ -48,7 +48,7 @@ In 1893, C.W. Mills wrote to several military and government figures asking for 
 - **[Richard J. Gatling](letters/gatling.md)** Inventor of the Gatling gun  
 - **[Wade Hampton](#)** *(coming soon)* Confederate cavalry general and Governor of South Carolina  
 - **[Benjamin F. Butler](letters/butler.md)** Union general and politician during the Civil War  
-- **[John Russell Young](#)** *(coming soon)* U.S. Minister to China and Librarian of Congress  
+- **[John Russell Young](letters/young.md)** *(coming soon)* U.S. Minister to China and Librarian of Congress  
 - **[John Willock Noble](#)** *(coming soon)* U.S. Secretary of the Interior under Benjamin Harrison  
 - **[Redfield Proctor](#)** *(coming soon)* U.S. Secretary of War under Benjamin Harrison  
 - **[Russell A. Alger](#)** *(coming soon)* U.S. Secretary of War during the Spanish-American War  
